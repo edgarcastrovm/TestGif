@@ -4,7 +4,10 @@
 		<link rel="stylesheet"  href="css/style.css"/>
 	</head>
 	<body>
-		<h1>Biembenidos</h1>
+		<header class="header">
+            <h1>Biembenidos Test Git</h1>
+            Cabecera
+		</header>
 		<p>Aqui ingresamos el primer parrafo</p>
 		<p>otro parrafo </p>
 		<div class="content">
