@@ -11,6 +11,7 @@ body{
 .header{
     text-align: left;
     font-size: 20px;
+    font-weight: bolder;
 }
 .content{
 	border:solid 1px #9f9f9f;
