@@ -1,5 +1,5 @@
 <?php
-
+echo "Linea 0 titulo<br>"
 echo "linea 1 nombre <br>";
 echo "linea 2 apellido<br>";
 echo "linea 3 cedula<br>";
