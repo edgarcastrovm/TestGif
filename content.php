@@ -4,3 +4,7 @@
 <p>
 	segundo parrafo importado en contenido
 </p>
+
+<p>
+	Tercer parrafo importado en contenido
+</p>
