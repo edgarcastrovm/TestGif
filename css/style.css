@@ -8,6 +8,10 @@ body{
 	text-align:center;
 	
 }
+.header{
+    text-align: left;
+    font-size: 20px;
+}
 .content{
 	border:solid 1px #9f9f9f;
 }
