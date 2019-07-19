@@ -1,6 +1,6 @@
 <html>
 	<head>
-		<title>PAGINA HOME</title>
+		<title>PAGINA HOME 2.0</title>
 		<link rel="stylesheet"  href="css/style.css"/>
 	</head>
 	<body>
